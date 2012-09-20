@@ -8,6 +8,7 @@ require 'bundler/capistrano'
 
 set :application, "rua.docbenton.org"
 set :repository,  "ssh://docbenton.org/home/peteg/git/reddingultimate.org.git"
+set :branch, "master"
 
 set :scm, :git
 
