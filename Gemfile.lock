@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/gma/nesta.git
   revision: 4d0128cc0081846905dff347d2d8d46e33a17deb
+  ref: 4d0128cc0081846905dff347d2d8d46e33a17deb
   specs:
     nesta (0.9.13)
       RedCloth (~> 4.2)
