@@ -4,7 +4,6 @@ gem 'nesta', :git => "https://github.com/gma/nesta.git", :ref => "4d0128cc008184
 gem 'unicorn'
 gem 'capistrano'
 gem 'rvm-capistrano'
-
-
+gem 'maruku'
 
 # gem (RUBY_VERSION =~ /^1.9/) ? 'ruby-debug19': 'ruby-debug'
