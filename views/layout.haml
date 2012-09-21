@@ -68,10 +68,9 @@
                     %a{:href => "/contact"}
                       Contact us
 
-    .content-wrapper.clearfix
-      %div{:class => container}
-        = yield
-        %footer
-          = haml :footer, :layout => false
-      .analytics
-        = haml :analytics, :layout => false
+    %div{:class => container}
+      = yield
+      %footer
+        = haml :footer, :layout => false
+    .analytics
+      = haml :analytics, :layout => false
