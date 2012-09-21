@@ -11,6 +11,7 @@ set :repository,  "ssh://docbenton.org/home/peteg/git/reddingultimate.org.git"
 set :branch, "master"
 
 set :scm, :git
+set :git_enable_submodules, 1
 
 set :use_sudo, false
 set(:run_method) { use_sudo ? :sudo : :run }
