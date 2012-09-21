@@ -22,7 +22,7 @@
 
         #footer
           %p
-            Powered by
-            %a{ :href => "http://nestacms.com" } nesta
+            Served at
+            = DateTime.now.strftime('%l:%M%P on %B %-d, %Y')
 
     = haml :analytics, :layout => false
