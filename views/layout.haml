@@ -35,12 +35,38 @@
             = Nesta::Config.title
           .nav-collapse
             %ul.nav
-              %li.active
-                %a{:href => "#"} Home
+              %li.dropdown
+                %a.dropdown-toggle{:href => "#", "data-toggle" => "dropdown"}
+                  Regular play
+                  %b.caret
+                %ul.dropdown-menu
+                  %li
+                    %a{:href => "/raful"}
+                      RAFUL
+              %li.dropdown
+                %a.dropdown-toggle{:href => "#", "data-toggle" => "dropdown"}
+                  Tournaments
+                  %b.caret
+                %ul.dropdown-menu
+                  %li
+                    %a{:href => "/red-hot-hat"}
+                      Red Hot Hat
+                  %li
+                    %a{:href => "/turkey-toss"}
+                      Turkey Toss
               %li
-                %a{:href => "#about"} About
-              %li
-                %a{:href => "#contact"} Contact
+                %a{:href => "/red-hots"}
+                  Red Hots
+              %li.dropdown
+                %a.dropdown-toggle{:href => "#", "data-toggle" => "dropdown"}
+                  More info
+                  %b.caret
+                %ul.dropdown-menu
+                  %li
+                    %a{:href => "/about"}
+                      About RUA
+                    %a{:href => "/contact"}
+                      Contact us
 
     %div{:class => container}
       = yield
