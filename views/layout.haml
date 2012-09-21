@@ -16,13 +16,12 @@
     %script{ :src => "/postal3/javascripts/application.js", :type => "text/javascript" }
     %script{ :src => "/bootstrap/js/bootstrap.min.js", :type => "text/javascript" }
   %body{ :class => @body_class }
-    #container
-      #wrapper
-        = yield
+    .container
+      = yield
 
-        #footer
-          %p
-            Served at
-            = DateTime.now.strftime('%l:%M%P on %B %-d, %Y')
+      #footer
+        %p
+          Served at
+          = DateTime.now.strftime('%l:%M%P on %B %-d, %Y')
 
     = haml :analytics, :layout => false
