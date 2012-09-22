@@ -1,1 +1,4 @@
 ~ @page.to_html(self)
+
+.pages
+  = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
