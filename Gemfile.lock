@@ -28,6 +28,8 @@ GEM
     kgio (2.7.4)
     maruku (0.6.1)
       syntax (>= 1.0.0)
+    nesta-plugin-foldable (0.0.4)
+      nesta (>= 0.9.13)
     net-scp (1.0.4)
       net-ssh (>= 1.99.1)
     net-sftp (2.0.5)
@@ -64,5 +66,6 @@ DEPENDENCIES
   capistrano
   maruku
   nesta!
+  nesta-plugin-foldable
   rvm-capistrano
   unicorn
