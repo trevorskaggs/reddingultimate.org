@@ -6,11 +6,17 @@ Description: A list of current pickup games in the Redding area
 
 <div class="row">
     <div class="span8">
-The Redding area has a variety of pickup options for interested players,
+<p>The Redding area has a variety of pickup options for interested players,
 at a variety of levels. We aim to keep this page as up-to-date as possible,
 but there's always a chance that a given pickup game has changed date,
 time, or location. Contact the organizer of the pickup game before heading
-out for the first time.
+out for the first time.</p>
+
+<p>If you have information about any new pickup games, or if you notice
+    someting wrong with the information we have here, send us a line at
+    <a href="mailto:pickup@reddingultimate.org">pickup@reddingultimate.org</a> and we'll set it right.
+</p>
+
     </div>
 
     <div class="span4">
