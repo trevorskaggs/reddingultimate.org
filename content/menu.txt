@@ -1,3 +1,8 @@
+pickup
+  pickup/anderson
+leagues
+  leagues/raful
+tournaments
+  tournaments/red-hot-hat
+  tournaments/turkey-toss
 red-hots
-about-us
-contact-us
