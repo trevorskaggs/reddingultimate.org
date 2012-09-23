@@ -17,24 +17,3 @@ out for the first time.
 If you have information about any new pickup games, or if you notice
 someting wrong with the information we have here, send us a line at
 <a href="mailto:pickup@reddingultimate.org">pickup@reddingultimate.org</a> and we'll set it right.
-
-<h1 class="page-header">RAFUL <small>Redding's Fall Leauge</small></h1>
-
-Every Wednesday we play structured pickup at [Caldwell Park][caldwell], starting at 8pm.
-These evenings are fun for players of all levels, and run through November 21st, 2012.
-Drop-in fee is $3 to pay for the lights, or $20 for the whole fall.
-
-[More info][raful]
-
-<h1 class="page-header">Anderson River Park <small>Pickup on Sundays</small></h1>
-
-We've heard that folks play pickup down at the [Anderson River Park][anderson river park] on Sundays starting at 2pm.
-We don't know much about what goes on there, so if you have more info send us a line at <pickup@reddingultimate.org> so we can update our information accordingly.
-
-[More info][anderson pickup]
-
-
-[raful]: /leagues/raful
-[caldwell]: /places/caldwell
-[anderson river park]: /places/anderson-river-park
-[anderson pickup]: /pickup/anderson

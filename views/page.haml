@@ -1,6 +1,10 @@
 .row
   .span8
     ~ @page.to_html(self)
+
+    %section.pages
+      = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
+
   .span3.well.sidebar-menu
     .nav-header
       Navigation
