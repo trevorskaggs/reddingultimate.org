@@ -1,4 +1,8 @@
-# Redding Area Summer Ultimate League
+Categories: leagues:1
+Summary: Every Wednesday in the summer, we meet for the Redding Area Summer Ultimate League, or RASUL.
+Read more: Tell me more...
+
+# RASUL
 
 RASUL 2012 drew to a close on August 8th when <strong>DiscMethod</strong> took the league championship. Many thanks to all who participated for making the league such a success! August 15th we will still have the fields at Caldwell for pickup and a Red Hots practice. Have a great rest of the summer, all!
 
@@ -14,7 +18,8 @@ We will have the fields again for the fall league (RAFUL) starting shortly, whic
 
 <h2>Regular season standings</h2>
 
-<table><thead><th>Team</th><th>Captain</th><th>Wins</th><th>Losses</th><th>Games played</th><th>Win %</th><th>Games back</th><th>Points for</th><th>Points against</th><th>Point +/-</th></thead><tbody><tr><th>Scoreplay</th><td>Young</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>91</td><td>89</td><td>2</td><tr><th>Built to Thrill</th><td>Fugitt</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>90</td><td>89</td><td>1</td><tr><th>Disc Method</th><td>Tener</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>95</td><td>95</td><td>0</td><tr><th>BYE</th><td>Gadomski</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>89</td><td>92</td><td>-3</td></table>
+<table><thead><tr><th>Team</th><th>Captain</th><th>Wins</th><th>Losses</th><th>Games played</th><th>Win %</th><th>Games back</th><th>Points for</th><th>Points against</th><th>Point +/-</th></tr></thead><tbody><tr><th>Scoreplay</th><td>Young</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>91</td><td>89</td><td>2</td></tr><tr><th>Built to Thrill</th><td>Fugitt</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>90</td><td>89</td><td>1</td></tr><tr><th>Disc Method</th><td>Tener</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>95</td><td>95</td><td>0</td></tr><tr><th>BYE</th><td>Gadomski</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>89</td><td>92</td><td>-3</td></tr></tbody></table>
+
 <h2>Schedule</h2>
 
 <table>
