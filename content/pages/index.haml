@@ -50,15 +50,38 @@ Template: bare
           %a{:href => "/red-hots"}
             Learn more...
 
-%h2
-  And more!
+.row
+  .span4
+    %h2
+      And more!
+    %p
+      The Redding Ultimate Association promotes ultimate in the Redding
+      Area any way that we can. If you are looking to play ultimate,
+      teach the sport to others, or just learn more yourself, please
+      %a{:href => "/contact"}
+        contact us.
 
-%p
-  The Redding Ultimate Association promotes ultimate in the Redding
-  Area any way that we can. If you are looking to play ultimate,
-  teach the sport to others, or just learn more yourself, please
-  %a{:href => "/contact"}
-    contact us.
+  .span8
+    #imageCarousel.carousel.slide
+      .carousel-inner
+        .item.active
+          %img{:src => "/images/carousel/cpr.jpg"}
+          .carousel-caption
+            %h4
+              CPR
+            %p
+              During Summer 2011, the Red Hots joined up with friends from Chico and Paradise to form CPR, a mixed team that played in the Chico summer league.
+        .item
+          %img{:src => "/images/carousel/discos_2011.jpg"}
+          .carousel-caption
+            %h4
+              Discos Calientes 2011
+            %p
+              The Red Hots at Discos Calients 2011, in Chico, CA.
+      %a.carousel-control.left{:href => '#imageCarousel', 'data-slide' => 'prev'}
+        &lsaquo;
+      %a.carousel-control.right{:href => '#imageCarousel', 'data-slide' => 'next'}
+        &rsaquo;
 
 .row
   .span6
