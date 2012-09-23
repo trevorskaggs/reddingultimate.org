@@ -1,0 +1,116 @@
+Categories: leagues/rasul
+
+# RASUL 2012
+
+<div class="thumbnail pull-right span3">
+  <a href="/images/rasul_2012_champions.jpg">
+    <img src="/images/rasul_2012_champions.jpg">
+  </a> 
+  <div class="caption">
+    The 2012 RASUL champions, Disc Method.
+  </div>
+</div>
+
+RASUL 2012 drew to a close on August 8th when <strong>DiscMethod</strong> took the league championship. Many thanks to all who participated for making the league such a success! August 15th we will still have the fields at Caldwell for pickup and a Red Hots practice.
+
+<h2>Final results</h2>
+
+<ol>
+<li>Disc Method</li>
+<li>Scoreplay</li>
+<li>(tied) BYE and Built To Thrill</li>
+</ol>
+
+<h2>Regular season standings</h2>
+
+<table class="table table-condensed table-hover table-striped table-bordered"><thead><tr><th>Team</th><th>Captain</th><th>Wins</th><th>Losses</th><th>Games played</th><th>Win %</th><th>Games back</th><th>Points for</th><th>Points against</th><th>Point +/-</th></tr></thead><tbody><tr><th>Scoreplay</th><td>Young</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>91</td><td>89</td><td>2</td></tr><tr><th>Built to Thrill</th><td>Fugitt</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>90</td><td>89</td><td>1</td></tr><tr><th>Disc Method</th><td>Tener</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>95</td><td>95</td><td>0</td></tr><tr><th>BYE</th><td>Gadomski</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>89</td><td>92</td><td>-3</td></tr></tbody></table>
+
+<h2>Schedule</h2>
+
+<table class="table table-condensed table-striped">
+  <thead>
+   <tr>
+      <th>Date</th>
+      <th>Game 1</th>
+      <th>Score</th>
+      <th>Game 2</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Jun 6, 2012</th>
+      <td><strong>Disc Method</strong> vs Scoreplay</td>
+      <td>13-11</td>
+      <td>Built to Thrill vs <strong>BYE</strong></td>
+      <td>12-14</td>
+    </tr>
+    <tr>
+      <th>Jun 13, 2012</th>
+      <td><strong>Disc Method</strong> vs Built to Thrill</td>
+      <td>13-10</td>
+      <td><strong>Scoreplay</strong> vs BYE</td>
+      <td>13-8</td>
+    </tr>
+    <tr>
+      <th>Jun 20, 2012</th>
+      <td><strong>Disc Method</strong> vs BYE</td>
+      <td>13-9</td>
+      <td>Scoreplay vs <strong>Built to Thrill</strong></td>
+      <td>6-13</td>
+    </tr>
+    <tr>
+      <th>Jun 27, 2012</th>
+      <td><strong>Disc Method</strong> vs Scoreplay</td>
+      <td>14-12</td>
+      <td>Built to Thrill vs <strong>BYE</strong></td>
+      <td>11-13</td>
+    </tr>
+    <tr>
+      <th>Jul 4, 2012</th>
+      <td colspan="4">No league games, pickup only</td>
+    </tr>
+    <tr>
+      <th>Jul 11, 2012</th>
+      <td>Disc Method vs <strong>Built to Thrill</strong></td>
+      <td>11-13</td>
+      <td><strong>Scoreplay</strong> vs BYE</td>
+      <td>13-11</td>
+    </tr>
+    <tr>
+      <th>Jul 18, 2012</th>
+      <td>Disc Method vs <strong>BYE</strong></td>
+      <td>12-14</td>
+      <td>Scoreplay vs <strong>Built to Thrill</strong></td>
+      <td>10-13</td>
+    </tr>
+    <tr>
+      <th>Jul 25, 2012</th>
+      <td>Disc Method vs <strong>Scoreplay</strong></td>
+      <td>10-13</td>
+      <td>Built to Thrill vs <strong>BYE</strong></td>
+      <td>5-13</td>
+    </tr>
+    <tr>
+      <th>Aug 1, 2012</th>
+      <td>Disc Method vs <strong>Built to Thrill</strong></td>
+      <td>9-13</td>
+      <td><strong>Scoreplay</strong> vs BYE</td>
+      <td>13-7</td>
+    </tr>
+    <tr>
+      <th>Aug 8, 2012, round 1</th>
+      <td><strong>Scoreplay</strong> vs BYE</td>
+      <td>13-7</td>
+      <td>Built to Thrill vs <strong>DiscMethod</strong></td>
+      <td>8-13</td>
+    </tr>
+    <tr>
+      <th>Aug 8, 2012, final round</th>
+      <td>Scoreplay vs <strong>DiscMethod</strong></td>
+      <td>10-12</td>
+      <td>Built to Thrill vs <strong>BYE</strong></td>
+      <td/>
+    </tr>
+  </tbody>
+</table>
