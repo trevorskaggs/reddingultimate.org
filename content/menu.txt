@@ -2,6 +2,7 @@ pickup
   pickup/anderson
 leagues
   leagues/raful
+  leagues/rasul
 tournaments
   tournaments/red-hot-hat
   tournaments/turkey-toss

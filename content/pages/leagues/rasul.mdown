@@ -18,11 +18,11 @@ We will have the fields again for the fall league (RAFUL) starting shortly, whic
 
 <h2>Regular season standings</h2>
 
-<table><thead><tr><th>Team</th><th>Captain</th><th>Wins</th><th>Losses</th><th>Games played</th><th>Win %</th><th>Games back</th><th>Points for</th><th>Points against</th><th>Point +/-</th></tr></thead><tbody><tr><th>Scoreplay</th><td>Young</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>91</td><td>89</td><td>2</td></tr><tr><th>Built to Thrill</th><td>Fugitt</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>90</td><td>89</td><td>1</td></tr><tr><th>Disc Method</th><td>Tener</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>95</td><td>95</td><td>0</td></tr><tr><th>BYE</th><td>Gadomski</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>89</td><td>92</td><td>-3</td></tr></tbody></table>
+<table class="table table-condensed table-hover table-striped table-bordered"><thead><tr><th>Team</th><th>Captain</th><th>Wins</th><th>Losses</th><th>Games played</th><th>Win %</th><th>Games back</th><th>Points for</th><th>Points against</th><th>Point +/-</th></tr></thead><tbody><tr><th>Scoreplay</th><td>Young</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>91</td><td>89</td><td>2</td></tr><tr><th>Built to Thrill</th><td>Fugitt</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>90</td><td>89</td><td>1</td></tr><tr><th>Disc Method</th><td>Tener</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>95</td><td>95</td><td>0</td></tr><tr><th>BYE</th><td>Gadomski</td><td>4</td><td>4</td><td>8</td><td>0.500</td><td>0</td><td>89</td><td>92</td><td>-3</td></tr></tbody></table>
 
 <h2>Schedule</h2>
 
-<table>
+<table class="table table-condensed table-striped">
   <thead>
    <tr>
       <th>Date</th>
