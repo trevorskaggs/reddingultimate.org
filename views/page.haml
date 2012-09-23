@@ -1,7 +1,7 @@
 .row
   .span8
     ~ @page.to_html(self)
-  .span3.well
+  .span3.well.sidebar-menu
     .nav-header
       Navigation
     - display_menu(Nesta::Menu.full_menu, :class => 'nav nav-list')
