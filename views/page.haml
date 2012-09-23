@@ -1,12 +1,12 @@
 .row
-  .span8
-    ~ @page.to_html(self)
-
-  .span3.well.sidebar-menu
+  .span3.sidebar-menu
     .nav-header
       Redding Ultimate
     - display_menu(Nesta::Menu.full_menu, :class => 'nav nav-list')
 
-%section.pages
-  = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
+  .span9
+    ~ @page.to_html(self)
+
+    %section.pages
+      = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
 
