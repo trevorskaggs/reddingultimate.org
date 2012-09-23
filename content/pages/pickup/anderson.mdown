@@ -1,6 +1,6 @@
 Description: Sunday pickup at Anderson River Park
 Categories: pickup
-Summary: We've heard that folks play pickup down at the [Anderson River Park][anderson river park] on Sundays starting at 2pm.
+Summary: We've heard that folks play pickup down at the [Anderson River Park][anderson river park] on Sundays, starting at 2pm.
 Read more: Tell me more...
 
 # Anderson pickup
