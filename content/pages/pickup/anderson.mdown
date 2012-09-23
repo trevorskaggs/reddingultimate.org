@@ -1,14 +1,12 @@
 Description: Sunday pickup at Anderson River Park
 Categories: pickup
-Read more: Tell me more...
+Summary: We've heard that folks play pickup down at the [Anderson River Park][anderson river park] on Sundays starting at 2pm. We don't know much about what goes on there, so if you have more info send us a line at <pickup@reddingultimate.org> so we can update our information accordingly.
 
 # Anderson River Park pickup
 
 **Where:** [Anderson River Park][anderson river park]  
 **When:** Sunday afternoons at 2pm  
 **Contact:** ???
-
-<!-- ~~fold~~ -->
 
 We've heard folks play at 2pm down at the Anderson River Park. If you
 have more information about the pickup, e.g. a contact email, send us
