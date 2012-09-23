@@ -3,6 +3,11 @@ Description: A list of current pickup games in the Redding area
 
 # Pickup
 
+<div class="thumbnail pull-right" style="margin-left: 10px">
+    <img src="/images/baker_layout.jpg" class="img-rounded" style="height: 160px">
+    <p class="caption">Mike Baker lays it out</p>
+</div>
+
 The Redding area has a variety of pickup options for interested players,
 at a variety of levels. We aim to keep this page as up-to-date as possible,
 but there's always a chance that a given pickup game has changed date,
