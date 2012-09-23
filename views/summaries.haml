@@ -2,7 +2,7 @@
   %ul.unstyled
     - pages.each do |page|
       %li
-        %h1.page-header
+        %h2.page-header
           = page.heading
       - if page.summary.nil? || page.summary.empty?
         ~ page.body
