@@ -1,9 +1,9 @@
 - unless pages.empty?
-  %ol
+  %ul.unstyled
     - pages.each do |page|
       %li
-        %h1
-          %a(href="#{page.abspath}")= page.heading
+        %h1.page-header
+          = page.heading
       - if page.summary.nil? || page.summary.empty?
         ~ page.body
       - else
