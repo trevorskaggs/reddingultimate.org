@@ -1,0 +1,7 @@
+.row
+  .span8
+    ~ @page.to_html(self)
+  .span3.well
+    .nav-header
+      Navigation
+    - display_menu(Nesta::Menu.for_path('/'), :class => 'nav nav-list')
