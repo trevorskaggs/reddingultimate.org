@@ -1,4 +1,5 @@
 * Convert pickup pages into pages w/ a sort order so we keep content
   in the same place and leverage categories
 * Add ultimate links
+* File a ticket (and patch) on four-space menus
 * Add in the news
