@@ -1,4 +1,4 @@
-Categories: pickup, leagues
+Categories: pickup:1, leagues
 Read more: Go on...
 
 # RAFUL
