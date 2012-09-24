@@ -2,7 +2,7 @@ Categories: leagues:1
 Summary: Every Wednesday in the summer, we meet for the Redding Area Summer Ultimate League, or RASUL.
 Read more: Tell me more...
 
-# RASUL
+# Summer League
 
 <p><abbr title="Redding Area Summer Ultimate League" class="initialism">RASUL</abbr> takes place during the summer months on every Wednesday night at <a href="/places/caldwell">Caldwell Park</a>. We'll be back next summer with
 more summer league play. This page will be updated with more information as
