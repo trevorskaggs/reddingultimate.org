@@ -5,6 +5,11 @@ Updated: September 24, 2012
 
 # Fall league
 
+<div class="alert alert-success">
+    Fall league is currently in session and will be going strong through November 21st!
+    Come down to Caldwell Park on Wednesday nights at 8pm and join us for disc.
+</div>
+
 <img src="/images/celeste_forehand.jpg" class="span3 pull-right img-rounded">
 
 **Where:** [Caldwell Park](/places/caldwell)  
