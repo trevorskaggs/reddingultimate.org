@@ -4,6 +4,17 @@ Read more: Tell me more...
 
 # Summer League
 
+<div class="thumbnail span3 pull-right">
+    <a href="/images/carl.jpg">
+    <img src="/images/carl.jpg">
+    </a>
+
+    <div class="caption">
+        The RASUL czar, Carl Holcombe.
+    </div>
+
+</div>
+
 <p><abbr title="Redding Area Summer Ultimate League" class="initialism">RASUL</abbr> takes place during the summer months on every Wednesday night at <a href="/places/caldwell">Caldwell Park</a>. We'll be back next summer with
 more summer league play. This page will be updated with more information as
 RASUL 2013 approaches</p>

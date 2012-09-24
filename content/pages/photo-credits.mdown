@@ -1,0 +1,7 @@
+# Photo credits
+
+<img src="/images/rob.jpg" class="span3 pull-right img-polaroid">
+
+Unless otherwise noted, all pictures on this site are property of Rob Lindahl, whose baller shots are off the charts in quality *and* in number.
+Many thanks to Rob for his tireless camera work.
+
