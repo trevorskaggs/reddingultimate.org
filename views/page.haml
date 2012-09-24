@@ -14,8 +14,12 @@
     %section.pages
       = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
 
-- if @page.metadata('updated at')
-  %p.pull-right.muted
-    Updated at
-    = @page.metadata('updated at')
-  
+- if @page.metadata('updated on')
+  - begin
+    - datetime = DateTime.parse(@page.metadata('updated on')).strftime("%Y-%m-%d")
+  - rescue ArgumentError
+    - datetime = false
+  - if datetime
+    %p.pull-right.muted
+      Last updated on
+      = datetime
