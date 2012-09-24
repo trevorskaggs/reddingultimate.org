@@ -1,8 +1,10 @@
 Categories: pickup:1, leagues:0
 Read more: Tell me more...
-Summary: Every Wednesday in the fall we play structured pickup at Caldwell Park, starting at 8pm.
+Summary: Every Wednesday in the fall we play structured pickup at Caldwell Park, starting at 8pm. These evenings are open to all players of all skill levels.
 
 # Fall league
+
+<img src="/images/celeste_forehand.jpg" class="span3 pull-right">
 
 **Where:** [Caldwell Park](/places/caldwell)  
 **When:** Wednesday nights at 8pm  
@@ -12,3 +14,9 @@ Summary: Every Wednesday in the fall we play structured pickup at Caldwell Park,
 Every Wednesday we play structured pickup at [Caldwell Park](/places/caldwell), starting at 8pm.
 These evenings are fun for players of all levels, and run through November 21st, 2012.
 Drop-in fee is $3 to pay for the lights, or $20 for the whole fall.
+
+Though it's called *Fall League*, there's no teams or advanced registration.
+Each evening we play two or three games of structured pickup with random teams.
+
+Please email <raful@reddingultimate.org> with any questions.
+Hope to see you out there!
