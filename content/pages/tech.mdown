@@ -1,0 +1,21 @@
+# Tech stack
+
+Oh, you just had to ask.
+Here's the rundown of the tech that drives this site.
+
+* **[Nesta CMS](https://github.com/gma/nesta)**:
+    This file-based [CMS](http://en.wikipedia.org/wiki/Content_management_system), written in [Ruby](http://www.ruby-lang.org/en/) on [Sinatra](http://www.sinatrarb.com/), has been a simple joy to work with.
+    Webpage content is just text, why store it in a database?
+    The previous version of this site used [Drupal](http://drupal.org/), which we hope we won't run into again anytime soon.
+* **[Git](http://git-scm.com/)**:
+    All source code, page content, and static media on this site is version controlled with git.
+    In the future, we hope to make our site publicly availible on [Github](http://github.com), but for now its private.
+* **[Twitter's Bootstrap](http://twitter.github.com/bootstrap/)**:
+    So I don't know about you, but we **hate** basic CSS layout.
+    It makes me break out in a sweat.
+    Bootstrap takes care of the nitty-gritty for us, and gives us some great eye candy as a bonus.
+* **[Nginx](http://nginx.org/)**:
+    Quickly becoming the industry-standard for fast and light frontend http proxying, **nginx** may look scary and Russian but its easy to use and blazing fast.
+    We've got a nginx proxy server punting requests back to a [unicorn](http://unicorn.bogomips.org/) as well as routing other requests to some old Apache-served sites.
+* **[Linode](http://www.linode.com/)**:
+    [Virtual Private Server](http://en.wikipedia.org/wiki/Virtual_private_server) hosting that's easy, not-too-expensive, and good enough for us.
