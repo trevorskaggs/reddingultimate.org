@@ -163,5 +163,7 @@ Template: bare
         %li
           %a{:href => article.path}
             = article.title
-          %span.muted
+          %div
+            = format_date(article.date)
+          .muted
             = article.summary
