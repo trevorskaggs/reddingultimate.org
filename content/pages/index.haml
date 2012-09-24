@@ -158,4 +158,10 @@ Template: bare
   .span6
     %h3
       Recent news
-    %div
+    %ul.unstyled
+      - latest_articles.each do |article|
+        %li
+          %a{:href => article.path}
+            = article.title
+          %span.muted
+            = article.summary
