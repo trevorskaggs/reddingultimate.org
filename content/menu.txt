@@ -1,8 +1,8 @@
 pickup
   pickup/anderson
 leagues
-  leagues/raful
   leagues/rasul
+  leagues/raful
 tournaments
   tournaments/red-hot-hat
   tournaments/turkey-toss
