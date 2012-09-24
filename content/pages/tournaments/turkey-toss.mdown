@@ -1,1 +1,26 @@
+Categories: tournaments
+Updated: September 24, 2012
+
 # Turkey Toss
+
+The **Turkey Toss** is a relaxed and fun hat tournament that will be held on November 25th, 2012, the Saturday after Thanksgiving.
+Last year we had great turnout and a great day of play, so we hope you'll join us this year as we look to run it back.
+
+<!-- ~~fold~~ -->
+
+<div class="thumbnail span3 pull-right">
+    <a href="/images/turkey-toss-2012.jpg">
+        <img src="/images/turkey-toss-2012.jpg">
+    </a>
+
+    <div class="caption">
+        <h3>Turkey Toss 2011</h3>
+
+        <p>
+            Last year's Turkey Toss poster.
+        </p>
+    </div>
+</div>
+
+More information about registration, cost, times, and location will be posted here as the day draws closer.
+Hope to see you out in November!

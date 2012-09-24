@@ -1,5 +1,5 @@
 Description: A list of current pickup games in the Redding area
-Updated on: September 24, 2012
+Updated: September 24, 2012
 
 # Pickup
 
