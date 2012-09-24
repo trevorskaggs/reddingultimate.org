@@ -57,7 +57,7 @@
 
       %div{:class => container}
         = yield
-        %footer
-          = haml :footer, :layout => false
-      .analytics
-        = haml :analytics, :layout => false
+  %footer.container
+    = haml :footer, :layout => false
+  .analytics
+    = haml :analytics, :layout => false
