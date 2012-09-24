@@ -14,3 +14,8 @@
     %section.pages
       = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
 
+- if @page.metadata('updated at')
+  %p.pull-right.muted
+    Updated at
+    = @page.metadata('updated at')
+  
