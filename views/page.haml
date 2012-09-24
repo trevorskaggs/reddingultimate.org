@@ -1,9 +1,20 @@
-
 .row
   .span3.sidebar-menu
     .nav-header
       Redding Ultimate
     - display_menu(Nesta::Menu.full_menu, :class => 'nav nav-list')
+
+    .nav-header
+      Links
+    %ul.nav.nav-list
+      %li
+        %a{:href => "https://www.facebook.com/groups/ReddingUltimateAssociation/", :target => "_blank"}
+          %i.icon-facebook
+          Facebook
+      %li
+        %a{:href => "/articles.xml", :target => "_blank"}
+          %i.icon-rss
+          RSS
 
   .span9
     .pull-right.breadcrumbs
