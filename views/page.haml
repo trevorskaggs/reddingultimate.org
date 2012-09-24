@@ -1,3 +1,4 @@
+
 .row
   .span3.sidebar-menu
     .nav-header
@@ -5,6 +6,9 @@
     - display_menu(Nesta::Menu.full_menu, :class => 'nav nav-list')
 
   .span9
+    .pull-right.breadcrumbs
+      - display_breadcrumbs
+
     ~ @page.to_html(self)
 
     %section.pages
