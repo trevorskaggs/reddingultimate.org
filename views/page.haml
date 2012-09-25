@@ -2,7 +2,10 @@
   .span3.sidebar-menu
     .nav-header
       Redding Ultimate
-    - display_menu(Nesta::Menu.full_menu, :class => 'nav nav-list')
+    - display_menu(Nesta::Menu.for_path('/pickup'), :class => 'nav nav-list')
+    - display_menu(Nesta::Menu.for_path('/leagues'), :class => 'nav nav-list')
+    - display_menu(Nesta::Menu.for_path('/tournaments'), :class => 'nav nav-list')
+    - display_menu(Nesta::Menu.for_path('/red-hots'), :class => 'nav nav-list')
 
     .nav-header
       Links
