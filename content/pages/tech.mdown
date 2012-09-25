@@ -8,8 +8,7 @@ Here's the rundown of the tech that drives this site.
     Webpage content is just text, why store it in a database?
     The previous version of this site used [Drupal](http://drupal.org/), which we hope we won't run into again anytime soon.
 * **[Git](http://git-scm.com/)**:
-    All source code, page content, and static media on this site is version controlled with git.
-    In the future, we hope to make our site publicly availible on [Github](http://github.com), but for now its private.
+    All source code, page content, and static media on this site is version controlled with git and is publicly availible on [Github](https://github.com/gadomski/reddingultimate.org).
 * **[Twitter's Bootstrap](http://twitter.github.com/bootstrap/)**:
     So I don't know about you, but we **hate** basic CSS layout.
     It makes me break out in a sweat.
