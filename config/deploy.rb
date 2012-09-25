@@ -6,7 +6,7 @@ set :rvm_type, :system
 # Bundler tasks
 require 'bundler/capistrano'
 
-set :application, "rua.docbenton.org"
+set :application, "new.reddingultimate.org"
 set :repository,  "https://github.com/gadomski/reddingultimate.org.git"
 set :branch, "master"
 
@@ -18,7 +18,7 @@ set(:run_method) { use_sudo ? :sudo : :run }
 
 default_run_options[:pty] = true
 
-set :user, "peteg"
+set :user, "rua-deploy"
 set :group, user
 set :runner, user
 

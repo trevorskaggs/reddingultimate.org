@@ -1,5 +1,5 @@
 # define paths and filenames
-deploy_to = "/srv/www/rua.docbenton.org"
+deploy_to = "/srv/www/new.reddingultimate.org"
 pid_file = "#{deploy_to}/shared/pids/unicorn.pid"
 socket_file= "#{deploy_to}/shared/unicorn.sock"
 log_file = "#{deploy_to}/current/log/unicorn.log"
