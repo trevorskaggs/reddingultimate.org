@@ -7,7 +7,7 @@ set :rvm_type, :system
 require 'bundler/capistrano'
 
 set :application, "rua.docbenton.org"
-set :repository,  "ssh://docbenton.org/home/peteg/git/reddingultimate.org.git"
+set :repository,  "https://github.com/gadomski/reddingultimate.org.git"
 set :branch, "master"
 
 set :scm, :git
