@@ -6,3 +6,4 @@ tournaments
   tournaments/red-hot-hat
   tournaments/turkey-toss
 red-hots
+ten-simple-rules

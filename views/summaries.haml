@@ -3,7 +3,7 @@
     - pages.each do |page|
       %li
         %section
-          %h2.page-header
+          %h3
             = page.heading
         - if page.summary.nil? || page.summary.empty?
           ~ page.body

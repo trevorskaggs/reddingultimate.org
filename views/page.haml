@@ -7,8 +7,10 @@
     - display_menu(Nesta::Menu.for_path('/tournaments'), :class => 'nav nav-list')
     - display_menu(Nesta::Menu.for_path('/red-hots'), :class => 'nav nav-list')
 
-    .nav-header
-      Links
+    .nav-header More info
+    - display_menu(Nesta::Menu.for_path('/ten-simple-rules'), :class => 'nav nav-list')
+
+    .nav-header Social media
     %ul.nav.nav-list
       %li
         %a{:href => "https://www.facebook.com/groups/ReddingUltimateAssociation/", :target => "_blank"}
@@ -27,6 +29,12 @@
 
     %section.pages
       = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
+
+    - unless @page.articles.empty?
+      %hr
+      %section.articles
+        %h2 Recent News
+        = haml :summaries, :layout => false, :locals => { :pages => @page.articles, :header => :h3 }
 
 - if @page.metadata('updated')
   - begin
