@@ -10,8 +10,8 @@ Here's the rundown of the tech that drives this site.
 * **[Git](http://git-scm.com/)**:
     All source code, page content, and static media on this site is version controlled with git and is publicly availible on [Github](https://github.com/gadomski/reddingultimate.org).
 * **[Twitter's Bootstrap](http://twitter.github.com/bootstrap/)**:
-    So I don't know about you, but we **hate** basic CSS layout.
-    It makes me break out in a sweat.
+    So don't know about you, but we **hate** basic CSS layout.
+    It makes us break out in a sweat.
     Bootstrap takes care of the nitty-gritty for us, and gives us some great eye candy as a bonus.
 * **[Nginx](http://nginx.org/)**:
     Quickly becoming the industry-standard for fast and light frontend http proxying, **nginx** may look scary and Russian but its easy to use and blazing fast.
