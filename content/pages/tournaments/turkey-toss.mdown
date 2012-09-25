@@ -14,11 +14,7 @@ Last year we had great turnout and a great day of play, so we hope you'll join u
     </a>
 
     <div class="caption">
-        <h3>Turkey Toss 2011</h3>
-
-        <p>
-            Last year's Turkey Toss poster.
-        </p>
+        Last year's Turkey Toss poster.
     </div>
 </div>
 
