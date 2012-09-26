@@ -31,9 +31,7 @@
       = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
 
     - unless @page.articles.empty?
-      %hr
       %section.articles
-        %h2 Recent News
         = haml :summaries, :layout => false, :locals => { :pages => @page.articles, :header => :h3 }
 
 - if @page.metadata('updated')
