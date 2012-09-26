@@ -9,6 +9,7 @@
 
     .nav-header More info
     - display_menu(Nesta::Menu.for_path('/ten-simple-rules'), :class => 'nav nav-list')
+    - display_menu(Nesta::Menu.for_path('/howto/mailing-list'), :class => 'nav nav-list')
 
     .nav-header Social media
     %ul.nav.nav-list
@@ -20,6 +21,10 @@
         %a{:href => "/articles.xml", :target => "_blank"}
           %i.icon-rss
           RSS
+      %li
+        %a{:href => "https://groups.google.com/forum/#!forum/redding-ultimate-association", :target => "_blank"}
+          %i.icon-envelope
+          Mailing list
 
   .span9
     .pull-right.breadcrumbs

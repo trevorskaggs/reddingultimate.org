@@ -1,0 +1,20 @@
+# How to subscribe to our mailing list
+
+The Redding Ultimate Association has a mailing list that we use for general announcements and discussion, alongside our <a href="https://www.facebook.com/groups/ReddingUltimateAssociation/" target="_blank">Facebook group</a>.
+Our mailing list website is <https://groups.google.com/d/forum/redding-ultimate-association>, and you can always view the latest messages on that page.
+If you'd like to subscribe to our mailing list and receive all the latest RUA updates via email, you've got two options.
+
+
+## Option 1: subscribe via the web interface
+
+If you have a Google account, or if you don't mind [getting a free one](https://accounts.google.com/SignUp), you can subscribe to the list via the web interface.
+Simply go to <https://groups.google.com/d/forum/redding-ultimate-association> and click "Join group".
+You'll be able to tweak how often you receive emails and other settings.
+
+## Option 2: subscribe via email
+
+If you don't have a Google account and you don't want one, you can subscribe by sending an email to
+<a mailto="redding-ultimate-association+subscribe@googlegroups.com">redding-ultimate-association+subscribe@googlegroups.com</a>.
+You'll receive a reply email that will walk you through the rest of the process.
+
+If you have questions or problems, send us an email at <webmaster@reddingultimate.org> and we'll help you out.

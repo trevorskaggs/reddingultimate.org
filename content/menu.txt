@@ -7,3 +7,4 @@ tournaments
   tournaments/turkey-toss
 red-hots
 ten-simple-rules
+howto/mailing-list
