@@ -27,6 +27,8 @@
 
     ~ @page.to_html(self)
 
+    = disclaimer
+
     %section.pages
       = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
 

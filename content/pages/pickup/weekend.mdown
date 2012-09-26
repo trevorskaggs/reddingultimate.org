@@ -1,13 +1,16 @@
 Updated: Sept 26, 2012
 Categories: pickup
+Disclaimer: non-rua-pickup
 
 
 # Weekend pickup
 
 Some folks from Redding get together at 2pm on Sundays at [Enterprise Park](/places/enterprise) for some casual pickup.
-There's no single contact for this pickup game, check [our Facebook group](https://www.facebook.com/groups/ReddingUltimateAssociation/) to see if folks are headed out on any given Sunday.
+There's no single contact for this pickup game, check <a href="https://www.facebook.com/groups/ReddingUltimateAssociation/" target="_blank">our Facebook group</a> to see if folks are headed out on any given Sunday.
 
 <div class="alert alert-info">
   <i class="icon-warning-sign"> </i>
-  This pickup game has recently changed time from 6pm on Saturdays.
+  This pickup game has recently changed time, from Saturday at 6pm to Sunday at 2pm.
 </div>
+
+<!-- ~~fold~~ -->

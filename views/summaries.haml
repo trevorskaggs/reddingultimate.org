@@ -5,6 +5,7 @@
         %section.page
           %h3
             = page.heading
+          = disclaimer(page)
         - if page.summary.nil? || page.summary.empty?
           ~ page.body
         - else
