@@ -1,6 +1,7 @@
 Updated: Sept 26, 2012
 Categories: pickup
 Disclaimer: non-rua-pickup
+Flags: draft
 
 
 # Weekend pickup
