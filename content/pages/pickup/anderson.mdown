@@ -3,6 +3,7 @@ Categories: pickup
 Summary: We've heard that folks play pickup down at the Anderson River Park on Sundays, starting at 2pm.
 Read more: Tell me more...
 Disclaimer: non-rua-pickup
+Flags: draft
 
 # Anderson pickup
 
