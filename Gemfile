@@ -8,3 +8,4 @@ gem 'maruku'
 gem 'nesta-plugin-foldable'
 
 # gem (RUBY_VERSION =~ /^1.9/) ? 'ruby-debug19': 'ruby-debug'
+gem 'rack-rewrite', '~> 1.0.0'
