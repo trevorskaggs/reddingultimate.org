@@ -14,6 +14,7 @@ require 'nesta/app'
 use Rack::Rewrite do
   r301 %r{^/whenweplay(\?.*)?}, '/pickup$1'
   r301 %r{^/rasul(\?.*)?}, '/leagues/rasul$1'
+  r301 %r{^/pickup/wednesday(\?.*)?}, '/leagues/raful'
   r301 %r{^/content/saturday-pickup(\?.*)?}, '/pickup/weekend$1'
   r301 %r{^/node/10(\?.*)?}, '/red-hots$1'
   r301 %r{^/node/2(\?.*)?}, '/leagues/raful$1'
