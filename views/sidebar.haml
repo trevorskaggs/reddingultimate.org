@@ -1,0 +1,25 @@
+.nav-header
+  Redding Ultimate
+- display_menu(Nesta::Menu.for_path('/pickup'), :class => 'nav nav-list')
+- display_menu(Nesta::Menu.for_path('/leagues'), :class => 'nav nav-list')
+- display_menu(Nesta::Menu.for_path('/tournaments'), :class => 'nav nav-list')
+- display_menu(Nesta::Menu.for_path('/red-hots'), :class => 'nav nav-list')
+
+.nav-header More info
+- display_menu(Nesta::Menu.for_path('/ten-simple-rules'), :class => 'nav nav-list')
+- display_menu(Nesta::Menu.for_path('/howto/mailing-list'), :class => 'nav nav-list')
+
+.nav-header Social media
+%ul.nav.nav-list
+  %li
+    %a{:href => "https://www.facebook.com/groups/ReddingUltimateAssociation/", :target => "_blank"}
+      %i.icon-facebook
+      Facebook
+  %li
+    %a{:href => "/articles.xml", :target => "_blank"}
+      %i.icon-rss
+      RSS
+  %li
+    %a{:href => "https://groups.google.com/forum/#!forum/redding-ultimate-association", :target => "_blank"}
+      %i.icon-envelope
+      Mailing list
