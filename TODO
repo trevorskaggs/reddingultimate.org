@@ -1,5 +1,4 @@
 * Use bootstrap breadcrumbs
-* Add note about mailing list to the contact us
 * Break out parts of page.haml into partials
 * Use more bootstrap on the sidebar (can we change the 'current' class to 'active')?
 * Homepage link to the mailing list should go right to the google group
