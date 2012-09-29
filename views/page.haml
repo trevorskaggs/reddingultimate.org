@@ -8,8 +8,7 @@
     = haml :sidebar, :layout => false
 
   .span9
-    .pull-right.breadcrumbs
-      - display_breadcrumbs
+    - display_breadcrumbs(:class => "breadcrumb", :active_class => "active", :divider => '/', :divider_class => 'divider')
 
     ~ @page.to_html(self)
 
