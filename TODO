@@ -1,11 +1,12 @@
 * Use bootstrap breadcrumbs
+* Add note about mailing list to the contact us
 * Break out parts of page.haml into partials
 * Use more bootstrap on the sidebar (can we change the 'current' class to 'active')?
 * Homepage link to the mailing list should go right to the google group
 * Remove span4 on the text on the 404 page...maybe offset, though?
 * Add a 'draft' notice on the top of drafts in development
+* Convert TODO to issues
 
 == For later ==
 
 * File a ticket (and patch) on four-space menus
-* Ticket (patch?) default read more
