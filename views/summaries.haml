@@ -5,6 +5,10 @@
         %section.page
           %h3
             = page.heading
+          - if page.flagged_as?('draft')
+            .alert.alert-warning
+              %i.icon-warning-sign
+              This page is a draft.
           = disclaimer(page)
         - if page.summary.nil? || page.summary.empty?
           ~ page.body
