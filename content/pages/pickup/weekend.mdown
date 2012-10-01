@@ -1,13 +1,11 @@
 Updated: Sept 26, 2012
 Categories: pickup
 Disclaimer: non-rua-pickup
-Flags: draft
-
 
 # Weekend pickup
 
 Some folks from Redding get together at 2pm on Sundays at [Enterprise Park](/places/enterprise) for some casual pickup.
-There's no single contact for this pickup game, check <a href="https://www.facebook.com/groups/ReddingUltimateAssociation/" target="_blank">our Facebook group</a> to see if folks are headed out on any given Sunday.
+Contact <a href="https://www.facebook.com/leftyw" target="_blank">Isaac Willis</a> or check our <a href="https://www.facebook.com/groups/ReddingUltimateAssociation/" target="_blank">Facebook group</a> for more information about pickup and to make sure its happening on a given weekend.
 
 <div class="alert alert-info">
   <i class="icon-warning-sign"> </i>
@@ -15,3 +13,7 @@ There's no single contact for this pickup game, check <a href="https://www.faceb
 </div>
 
 <!-- ~~fold~~ -->
+
+**When:** Sunday at 2pm  
+**Where:** Enterprise Park  
+**Contact:** <a href="https://www.facebook.com/leftyw" target="_blank">Isaac Willis</a>  
