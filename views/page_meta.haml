@@ -1,0 +1,26 @@
+- if page.date or @page.metadata('updated')
+  %footer
+    - if page.date
+      %p.meta.pull-left
+        Published
+        - if page.date
+          on
+          %time(datetime="#{page.date.to_s}" pubdate=true)= format_date(page.date)
+        - if (! page.categories.empty?)
+          in
+          - page.categories.each do |category|
+            - if category != page.categories[-1]
+              = succeed ',' do
+                %a(href="#{category.abspath}")= category.heading
+            - else
+              %a(href="#{category.abspath}")= category.heading
+
+    - if @page.metadata('updated')
+      - begin
+        - datetime = format_date(DateTime.parse(@page.metadata('updated')))
+      - rescue ArgumentError
+        - datetime = false
+      - if datetime
+        %p.meta.pull-right
+          Last updated on
+          = datetime

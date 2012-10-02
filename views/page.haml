@@ -10,21 +10,14 @@
   .span9
     - display_breadcrumbs(:class => "breadcrumb", :active_class => "active", :divider => '/', :divider_class => 'divider')
 
-    ~ @page.to_html(self)
+    %article
+      ~ @page.to_html(self)
 
-    %section.pages
-      = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
+      %section.pages
+        = haml :summaries, :layout => false, :locals => { :pages => @page.pages }
 
-    - unless @page.articles.empty?
-      %section.articles
-        = haml :summaries, :layout => false, :locals => { :pages => @page.articles, :header => :h3 }
+      - unless @page.articles.empty?
+        %section.articles
+          = haml :summaries, :layout => false, :locals => { :pages => @page.articles, :header => :h3 }
 
-- if @page.metadata('updated')
-  - begin
-    - datetime = DateTime.parse(@page.metadata('updated')).strftime("%Y-%m-%d")
-  - rescue ArgumentError
-    - datetime = false
-  - if datetime
-    %p.pull-right.muted{:style => "margin-top: 20px"}
-      Last updated on
-      = datetime
+      = haml :page_meta, :layout => false, :locals => { :page => @page }
