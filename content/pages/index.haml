@@ -161,8 +161,8 @@ Template: bare
       Recent news
     %ul.unstyled
       - latest_articles.each do |article|
-        %li
-          %a{:href => article.path}
+        %li{:style => "border-bottom: 1px dashed #ccc; margin-bottom: 16px"}
+          %a{:href => article.path, :style => "font-weight: bold"}
             = article.title
           %div
             = format_date(article.date)
