@@ -1,5 +1,6 @@
 Date: Oct 1, 2012
 Updated: Oct 2, 2012
+Flags: draft
 
 # September's minutes available
 
