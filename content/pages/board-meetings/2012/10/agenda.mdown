@@ -1,0 +1,9 @@
+Categories: board meetings
+Updated: October 12, 2012
+Flags: draft
+
+# Agenda for October's board meeting
+
+* RUA-provided field illumination (Josh)
+
+  * Inspiration: <http://www.airstructuresinternational.com/ilite.asp>
