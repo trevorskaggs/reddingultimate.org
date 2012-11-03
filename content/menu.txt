@@ -6,5 +6,6 @@ tournaments
   tournaments/red-hot-hat
   tournaments/turkey-toss
 red-hots
+board-meetings
 ten-simple-rules
 howto/mailing-list

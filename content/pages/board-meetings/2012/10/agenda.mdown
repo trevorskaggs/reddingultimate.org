@@ -1,7 +1,8 @@
-Categories: board meetings
+Categories: board-meetings:20
 Updated: October 12, 2012
+Summary: The agenda for October's RUA board meeting.
 
-# Agenda for October's board meeting
+# Agenda for October 2012
 
 [Download the .pdf](/attachments/board-meetings/2012/10/agenda.pdf)
 
