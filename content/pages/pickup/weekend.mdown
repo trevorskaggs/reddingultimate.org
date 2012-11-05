@@ -1,5 +1,6 @@
 Updated: Sept 26, 2012
 Categories: pickup:1
+Flags: draft
 
 # Weekend pickup
 
