@@ -1,24 +1,19 @@
 Categories: tournaments
 Updated: September 24, 2012
+Summary: The Turkey Toss is a relaxed, fun, and free hat tournament that will be held at noon on November 24th, 2012, the Saturday after Thanksgiving.
 
 # Turkey Toss
-
-The **Turkey Toss** is a relaxed and fun hat tournament that will be held at noon on November 24th, 2012, the Saturday after Thanksgiving.
-Last year we had great turnout and a great day of play, so we hope you'll join us this year as we look to run it back.
-This is a family friendly event, kids are encouraged to come out and try the sport.
-Play will run about 4-5 hours, until we get tired or it gets dark, and cleats are encouraged.
-
-<!-- ~~fold~~ -->
 
 <div class="thumbnail span3 pull-right">
     <a href="/images/turkey-toss-2012.jpg">
         <img src="/images/turkey-toss-2012.jpg">
     </a>
-
-    <div class="caption">
-        Last year's Turkey Toss poster.
-    </div>
 </div>
+
+The **Turkey Toss** is a relaxed and fun hat tournament that will be held at noon on November 24th, 2012, the Saturday after Thanksgiving.
+Last year we had great turnout and a great day of play, so we hope you'll join us this year as we look to run it back.
+This is a family friendly event, kids are encouraged to come out and try the sport.
+Play will run about 4-5 hours, until we get tired or it gets dark, and cleats are encouraged.
 
 There is no cost for this year's tournament.
 Registration will be day-of only, come by at noon and we'll get you signed up.
