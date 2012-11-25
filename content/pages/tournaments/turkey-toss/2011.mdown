@@ -2,7 +2,7 @@ Author: Pete Gadomski
 Date: November 26, 2011
 Categories: tournaments/turkey-toss
 
-# Turkey Toss 2011 writeup
+# Turkey Toss 2011 Writeup
 
 It had been rainy the whole week before, but Saturday, November 26th was a cool, sunny fall day, a perfect day for ultimate.
 Over 30 players showed up for the first annual Redding Ultimate Association Turkey Toss at Enterprise Park, and the event was a great success.
