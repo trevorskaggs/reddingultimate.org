@@ -1,0 +1,17 @@
+# Sponsors
+
+The Redding Ultimate Association would like to thank our sponsors.
+Without you guys, we wouldn't be able to do what we do.
+
+<div class="media">
+    <a href="http://www.shastaqa.com/" target="_blank" class="pull-left">
+        <img src="/images/shasta-qa.jpg" style="width: 64px">
+    </a>
+    <div class="media-body">
+        <h4 class="media-heading">Shasta QA</h4>
+
+        <div class="media">
+            Shasta QA provides material support to RUA, which helps us buy discs, run tournaments, and more.
+        </div>
+    </div>
+</div>
