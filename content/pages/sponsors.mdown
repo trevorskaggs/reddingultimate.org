@@ -5,7 +5,7 @@ Without you guys, we wouldn't be able to do what we do.
 
 <div class="media">
     <a href="http://www.shastaqa.com/" target="_blank" class="pull-left">
-        <img src="/images/shasta-qa.jpg" style="width: 64px">
+        <img src="/images/shasta-qa.gif" style="height: 64px">
     </a>
     <div class="media-body">
         <h4 class="media-heading">Shasta QA</h4>
