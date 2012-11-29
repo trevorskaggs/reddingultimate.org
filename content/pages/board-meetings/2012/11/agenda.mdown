@@ -5,14 +5,19 @@ Summary: The agenda for November's RUA board meeting.
 
 **Where:** Pete's house  
 **When:** November 29th, 2012 at 6pm  
-**Duration:** 110 minutes
+**Duration:** 125 minutes
 
 1. Officer reports
     1. Treasurer's report (Don) *5 minutes*
     1. Technology report (Trevor) *5 minutes*
 1. RAFUL wrap-up (Carl) *10 minutes*
-1. Turkey Toss wrap-up (Pete and Trevor) *10 minutes*
+    1. Have we paid for RASUL?
+    1. Have we paid for RAFUL?
+1. Turkey Toss wrap-up (Pete and Trevor) *5 minutes*
+1. Red Hots Practice (Pete) *10 minutes*
 1. Redding Soccer Park (Pete) *10 minutes*
+1. Marketing (Don) *5 minutes*
+1. Sweatshirts (Carl) *5 minutes*
 1. Year in Review (Don) *15 minutes*, including:
     1. Topics for the review
     1. Who will write what?
@@ -35,6 +40,7 @@ Summary: The agenda for November's RUA board meeting.
 1. Goals for next year (all) *20 minutes*, including:
     1. Youth Coordinator report/brainstorm (youth coordinater/James)
     1. Advertising and corporate sponsors (Don)
-    1. Health/sports day at Enterprise
-1. New business *10 minutes*
-1. Adjourn *110 minutes total*
+    1. Health and Fitness Fair in May (http://www.visitredding.com/eventdetails.php?eventid=696&s=0)
+    1. United Way Extreme Health Activities in October (http://norcalunitedway.net/events/health-event)
+1. New business and next meeting *10 minutes*
+1. Adjourn
