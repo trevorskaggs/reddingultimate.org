@@ -1,6 +1,7 @@
 Updated: November 30, 2012
 Categories: board-meetings:23
 Summary: The board holds elections and recaps 2012.
+Flags: draft
 
 # Minutes from November 2012
 
