@@ -1,7 +1,6 @@
 Updated: November 30, 2012
 Categories: board-meetings:23
 Summary: The board holds elections and recaps 2012.
-Flags: draft
 
 # Minutes from November 2012
 
@@ -55,7 +54,7 @@ Total expenditures for Turkey Toss: roughly $90.
 ## Red Hots Practice
 
 The scheduled Red Hots practice was canceled due to poor weather.
-After much discussion, the group decided to one again do a WhenIsGood to determine a good date for our first practice, in January, and try the whole shtick again.
+After much discussion, the group decided to once again do a WhenIsGood to determine a good date for our first practice, in January, and try the whole shtick again.
 Pete will coordinate scheduling.
 
 
@@ -71,13 +70,12 @@ Trevor noted that we should hit up the soccer teams that play at the soccer park
 ## Marketing
 
 Don noted that Shasta QA continues to support RUA, and that he will hit up the sponsors of Foothill Little League to see if any of them wants to support RUA.
-Alicia thought about asking the Wildcard Brewery for support, but the group was a little leery of, for example, putting a brewery on RASUL t-shirts.
-The group did agree that a place like Maxwell's, which serves both food and beer, would be an acceptable sponsor for RUA.
+The group agreed that a place like Maxwell's would be a great place to sponsor for RUA, and everyone was encouraged to look for RUA sponsors.
 
 The group agreed to circulate ideas regarding sponsorship, including contribution levels, returns on investment, etc.
 This discussion will take place via the board mailing list.
 
-Don noted that the big poster he was going to order is behind schedule due to mis-communications with the printer.
+Don noted that the big poster he was going to order is behind schedule due to poor reliability on the part of the printer.
 
 
 ## Sweatshirts
@@ -113,7 +111,7 @@ The following slate was nominated and elected with unanimous consent:
 * Youth Coordinator: James O'Connell
 * Red Hot Hat: Alicia Young, Jon Wiens
 * RASUL: Eric Tener, Carl Holcombe
-* RAFUL: Eric Tener, Carl Holcombe
+* RAFUL: Eric Tener, Carl Holcombe, Don O'Connell
 * Turky Toss: Alicia Young, Trevor Skaggs
 
 The new officers assume responsibilities January 1st.
