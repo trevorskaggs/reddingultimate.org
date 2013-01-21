@@ -1,24 +1,21 @@
 Categories: leagues:0
 Read more: Tell me more...
 Summary: Every Wednesday in the fall we play structured pickup at Caldwell Park, starting at 8pm. These evenings are open to all players of all skill levels.
-Updated: October 3, 2012
+Updated: Jan 21, 2013
 
 # Fall league
 
-<div class="alert alert-success">
-    Fall league is currently in session!
-    Join us on Wednesday nights at 8pm at Caldwell Park.
+<div class="alert alert-warning">
+    RAFUL is not running, but will begin again in the Fall of 2013.
 </div>
 
 <img src="/images/celeste_forehand.jpg" class="span3 pull-right img-rounded">
 
 **Where:** [Caldwell Park](/places/caldwell)  
-**When:** Wednesday nights at 8pm  
-**Until:** November 27st, 2012  
+**When:** Wednesday nights at 8pm, starting in the Fall of 2013  
 **Contact:** <raful@reddingultimate.org>
 
 Every Wednesday we play structured pickup at [Caldwell Park](/places/caldwell), starting at 8pm.
-These evenings are fun for players of all levels, and run through November 27st, 2012.
 Drop-in fee is $3 to pay for the lights, or $20 for the whole fall.
 
 Please email <raful@reddingultimate.org> with any questions.
