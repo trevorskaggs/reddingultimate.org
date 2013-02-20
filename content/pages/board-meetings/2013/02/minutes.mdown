@@ -84,3 +84,30 @@ Carl will get a quote from the t-shirt place for a sweatshirts, as well as a min
 
 Carl will organize the next meeting, to be held in early March.
 This meeting was adjourned at 20:43.
+
+
+## Todo list
+
+* Alicia
+  * Settle our RAFUL field fees with the city
+  * Pick a date for the Red Hot Hat
+  * Get Red Hot Hat artwork for discs
+  * Year in Review writeup for Red Hot Hat
+  * Compile president's manual
+* Carl
+  * Secure a copy of the RAFUL field fee invoice for our records
+  * Year in Review writeup for RASUL and RAFUL
+  * Get a sweatshirt quote
+  * Organize next meeting
+* Trevor
+  * Verify our GoDaddy domain status
+* Pete
+  * Check to see if our board email has a web interface
+  * Pick spring tournaments for the Red Hots
+  * Publicize twice-a-month Red Hot practices
+  * Compile Year in Review
+  * Re-send the VP manual to Carl
+* Don
+  * Compile Treasurer's manual
+* Jonathan
+  * Begin compiling Red Hot Hat manual
