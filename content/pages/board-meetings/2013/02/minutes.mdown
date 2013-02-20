@@ -108,6 +108,9 @@ This meeting was adjourned at 20:43.
   * Compile Year in Review
   * Re-send the VP manual to Carl
 * Don
+  
   * Compile Treasurer's manual
+
 * Jonathan
+  
   * Begin compiling Red Hot Hat manual
