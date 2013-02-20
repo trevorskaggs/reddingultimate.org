@@ -1,0 +1,86 @@
+Updated: February 20, 2013 
+Categories: board-meetings:25
+Summary: Getting the ball rolling for 2013 events
+
+# Minutes from February 2013 (proposed)
+
+The meeting was called to order at 19:10 at Pete's house.
+Present were Eric Tener (President), Carl Holcombe (Vice President), Brian Osgood (at-large), Johnathan Wiens (at-large), and Pete Gadomski (at-large).
+Pete Gadomski recorded the minutes.
+
+## Treasurer's report
+
+Carl Holcome gave the Treasurer's box to Pete Gadomski, who will pass it on to Alicia.
+Carl reported that we received $615 from the city for fall league registration fees, about $415 of which will go back to the city for field fees.
+The summer league field fees have already been paid.
+Alicia was tasked with settling our account for fall league, and Carl will find or get a new copy of the invoice so we can be sure of the amount owed.
+
+## Technology report
+
+Trevor will verify our GoDaddy status to make sure our domain will remain current.
+Pete will check to see if there is a web interface for our board mailing list.
+
+## Red Hot Hat
+
+The Red Hot Hat will be held on the 20 or 27th of April.
+The board was unable to settle on a date, so Alicia and Johnathan have been tasked with picking a date as soon as possible.
+The group discussed possible themes, including cryptozoology.
+Pete commented that we need to get artwork soon if we are going to get it onto discs before the tournament.
+
+## Red Hots
+
+Pete noted that he is going to start gaging interest for Red Hot tournaments in the spring.
+He will ask for commitments at practice on Saturday.
+The group also indicated that we might want to practice twice a month, at least until Wednesday nights start up again.
+
+## Year in Review
+
+Carl said he would work on a Year in Review writeup for RASUL and RAFUL.
+Pete will ask Alicia for her writeup on the Red Hot Hat, then will compile them into a single newsletter.
+The group recommended that we make the newsletter as short as possible, maybe as short as one page.
+
+## Manuals
+
+Pete will continue encouraging people to put together manuals for their successors.
+Pete will also resend the VP manual to Carl.
+
+## Fundraising levels
+
+The board agreed on fundraising levels, as follows:
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Amount</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Supporting</td>
+            <td>&lt; $100</td>
+            <td>Recognition on our website and Facebook page as a sponsor, disc</td>
+        </tr>
+        <tr>
+            <td>League sponsor</td>
+            <td>$200</td>
+            <td>All of the above, and placement on our summer league t-shirts</td>
+        </tr>
+        <tr>
+            <td>Principal sponsor</td>            
+            <td>$500</td>
+            <td>All of the above, inclusion on all publications and flyers, and mention at major RUA events. Potential for other arrangements as well (e.g. after-parties at Maxwells?)</td>
+        </tr>
+    </tbody>
+</table>
+
+## Sweatshirts
+
+Carl will get a quote from the t-shirt place for a sweatshirts, as well as a minimum order.
+
+
+## Next meeting
+
+Carl will organize the next meeting, to be held in early March.
+This meeting was adjourned at 20:43.
