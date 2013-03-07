@@ -4,8 +4,8 @@ Read more: Go on...
 
 # Red Hot Hat
 
-The 2013 Red Hot Hat will be held in Redding, CA in mid-April (exact date TBD).
-This fun one-day hat tournament draws players from all over the North State.
+The 2013 Red Hot Hat will be held in Redding, CA on April 27th.
+For more information, please see the [official 2013 Red Hot Hat page](/tournaments/red-hot-hat/2013).
 
 <!-- ~~fold~~ -->
 
@@ -13,8 +13,6 @@ This fun one-day hat tournament draws players from all over the North State.
     <img class="img-rounded" src="/images/red-hot-hat-2012.jpg">
 
     <div class="caption">
-        The logo from last year's Red Hot Hat.
+        The logo from the 2012 Red Hot Hat.
     </div>
 </div>
-
-More information about the Red Hot Hat will be posted here as the date approaches.

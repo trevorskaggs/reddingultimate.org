@@ -1,0 +1,26 @@
+Summary: The Red Hot Hat 2013 will be held on April 27th at Enterprise Park.
+Read more: More info
+Updated: March 7, 2013
+
+# Red Hot Hat 2013
+
+<ul class="thumbnails pull-right">
+    <li class="span3">
+        <div class="thumbnail">
+            <a href="#">
+                <img src="/images/tener-throw.jpg" alt="Eric throwing a disc">
+            </a>
+            <p>
+                Action from Red Hot Hat 2012
+            </p>
+        </div>
+    </li>
+</ul>
+
+The 2013 Red Hot Hat will be held at [Enterprise Park](/places/enterprise) on April 27, 2013.
+All are welcome to this fun, all-day event!
+You don't need to come with a team, we assign you to a team randomly before play starts.
+Play with start in the morning (exact time TBD) and will run through the afternoon.
+Registration will open soon, check back on this page for more information.
+
+All announcements will be posted to this page, as well as our [Facebook group](https://www.facebook.com/groups/ReddingUltimateAssociation/) and [mailing list](https://groups.google.com/forum/?fromgroups#!forum/redding-ultimate-association).
