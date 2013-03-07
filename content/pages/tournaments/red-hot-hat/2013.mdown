@@ -10,7 +10,7 @@ Updated: March 7, 2013
             <a href="#">
                 <img src="/images/tener-throw.jpg" alt="Eric throwing a disc">
             </a>
-            <p>
+            <p class="caption">
                 Action from Red Hot Hat 2012
             </p>
         </div>
