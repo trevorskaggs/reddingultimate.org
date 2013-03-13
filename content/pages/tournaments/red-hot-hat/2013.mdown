@@ -7,11 +7,11 @@ Updated: March 7, 2013
 <ul class="thumbnails pull-right span4">
     <li class="span3 pull-right">
         <div class="thumbnail">
-            <a href="#">
-                <img src="/images/tener-throw.jpg" alt="Eric throwing a disc">
+            <a href="/images/rhh-2013-disc.jpg">
+                <img src="/images/rhh-2013-disc.jpg" alt="Tentative disc design">
             </a>
             <p class="caption">
-                Action from Red Hot Hat 2012
+                Tentative disc design for this year's Red Hot Hat
             </p>
         </div>
     </li>
