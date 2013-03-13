@@ -13,8 +13,3 @@ Here's the rundown of the tech that drives this site.
     So don't know about you, but we **hate** basic CSS layout.
     It makes us break out in a sweat.
     Bootstrap takes care of the nitty-gritty for us, and gives us some great eye candy as a bonus.
-* **[Nginx](http://nginx.org/)**:
-    Quickly becoming the industry-standard for fast and light frontend http proxying, **nginx** may look scary and Russian but its easy to use and blazing fast.
-    We've got a nginx proxy server punting requests back to a [unicorn](http://unicorn.bogomips.org/) as well as routing other requests to some old Apache-served sites.
-* **[Linode](http://www.linode.com/)**:
-    [Virtual Private Server](http://en.wikipedia.org/wiki/Virtual_private_server) hosting that's easy, not-too-expensive, and good enough for us.
