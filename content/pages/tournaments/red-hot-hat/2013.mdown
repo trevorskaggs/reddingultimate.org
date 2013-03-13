@@ -1,6 +1,6 @@
 Summary: The Red Hot Hat 2013 will be held on April 27th at Enterprise Park.
 Read more: More info
-Updated: March 7, 2013
+Updated: March 13, 2013
 
 # Red Hot Hat 2013
 
@@ -17,18 +17,20 @@ Updated: March 7, 2013
     </li>
 </ul>
 
-The 2013 Red Hot Hat tournament will be held on Saturday, April 27th at [Enterprise Park](/places/enterprise), starting at 8:30am. We hope to see you there!
+The 2013 Red Hot Hat tournament will be held on Saturday, April 27th at [Enterprise Park](/places/enterprise), starting at 8:30am.
+<a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">Pre-registration</a> is $20 and closes Wednesday, April 24th.
+Day-of registration is $25.
+We hope to see you there!
 
 The Red Hot Hat is a open-to-the-public hat tournament.
 You don't need to come with a team &mdash; just bring yourself, and we will put together random yet balanced teams the morning of the tournament!
 The tournament starts at 8:30am and will run through the afternoon until 4pm or 5pm.
+
 We will provide a guaranteed four games, food, hydration, and basic amenities.
 Pre-registration <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">is open</a> (link will open in a new window), and you will be presented with a link to pay after you submit the form.
-The tournament is $20 for pre-registrants, $25 for day-of registrations.
+You're welcome to indicate your intention to attend on the [Facebook event](https://www.facebook.com/events/148400795324397/), but you will *not* be registered unless you complete our registration form and pay.
 
-You're welcome to indicate your intention to attend on the Facebook event, but you will *not* be registered unless you <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">complete our registration form and pay</a>.
-
-All announcements will be posted to this page, as well as our [Facebook group](https://www.facebook.com/groups/ReddingUltimateAssociation/) and [mailing list](https://groups.google.com/forum/?fromgroups#!forum/redding-ultimate-association).
+All updates and new information will be posted to this page, as well as our [Facebook group](https://www.facebook.com/groups/ReddingUltimateAssociation/) and [mailing list](https://groups.google.com/forum/?fromgroups#!forum/redding-ultimate-association).
 We can't wait to see you at the tournament on April 27th!
 
 Some miscellany:
@@ -36,12 +38,12 @@ Some miscellany:
 * This year's theme is [cryptozoology](http://en.wikipedia.org/wiki/Cryptozoology); each team will be themed after a different epic creature.
 * We hope to have discs for purchase at the fields; once we are sure the order is on time we will make the discs available for pre-order here on the website.
 * Even if you pre-register, you will need to sign a waiver when you get to the fields. If you are under 18, you will need a parent or guardian present to sign the waiver with you.
-* While we encourage revelry and good times in every form, please note that alcohol is not allowed at the fields.
+* While we encourage revelry and good times in every form, alcohol is not allowed at the fields.
 
 ## Registration and Payment
 
 Our <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">registration page</a> is now open.
-Please sign up via the form, then submit your payment via the provided paypal link.
+Please sign up via the form, then submit your payment ($20) via the provided paypal link.
 
 <div class="pull-right span3">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -53,6 +55,7 @@ Please sign up via the form, then submit your payment via the provided paypal li
 </div>
 
 If you pre-registered but did not pay (for whatever reason), you can use the button on the right to finalize your registration and reserve your spot in the tournament.
+If you aren't sure if you registered or not, just send us an email at <redhothat@reddingultimate.org> and we can check for you.
 
 Please make sure that the name to use to pay is the same name you put on the registration form.
 If those names are different for whatever reason, please send us a note at <redhothat@reddingultimate.org> so we can apply your payment to your registration.
