@@ -1,4 +1,5 @@
 Summary: The Red Hot Hat 2013 will be held on April 27th at Enterprise Park.
+Categories: red-hot-hat
 Read more: More info
 Updated: March 13, 2013
 
