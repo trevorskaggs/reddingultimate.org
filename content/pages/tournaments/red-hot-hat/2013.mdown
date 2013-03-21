@@ -9,12 +9,22 @@ Updated: March 13, 2013
     <li class="span3 pull-right">
         <div class="thumbnail">
             <a href="/images/rhh-2013-disc.jpg">
-                <img src="/images/rhh-2013-disc.jpg" alt="Tentative disc design">
+                <img src="/images/rhh-2013-disc.jpg" alt="Tentative disc design" id="discimg">
             </a>
             <p class="caption">
-                Tentative disc design for this year's Red Hot Hat
+                Disc design for this year's Red Hot Hat.
+                Discs can be <a href="#discs">pre-ordered</a> for $10 each.
             </p>
         </div>
+    </li>
+</ul>
+
+<ul>
+    <li>
+        <a href="#registration_and_payment">Registration and Payment</a>
+    </li>
+    <li>
+        <a href="#discs">Discs</a>
     </li>
 </ul>
 
@@ -46,16 +56,18 @@ Some miscellany:
 Our <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">registration page</a> is now open.
 Please sign up via the form, then submit your payment ($20) via the provided paypal link.
 
-<div class="pull-right span3">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="J8T5S53YC9JAE" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!" class="pull-right well"/>
-<img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<div class="pull-right span3 well" style="text-align: center">
+    <h5>Pay for the tournament</h5>
+    <p class="muted">(please <a href="https://docs.google.com/forms/d/1Hs6b0YoJ9UQpZdd_aga6Vi3tEuhueYNhRaq9JS61Ccg/viewform" target="_blank">register</a> first)</p>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_s-xclick" />
+    <input type="hidden" name="hosted_button_id" value="J8T5S53YC9JAE" />
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online!"/>
+    <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </form>
 </div>
 
-If you pre-registered but did not pay (for whatever reason), you can use the button on the right to finalize your registration and reserve your spot in the tournament.
+If you registered but did not pay (for whatever reason), you can use the button on the right to finalize your registration.
 If you aren't sure if you registered or not, just send us an email at <redhothat@reddingultimate.org> and we can check for you.
 
 Please make sure that the name to use to pay is the same name you put on the registration form.
@@ -63,6 +75,26 @@ If those names are different for whatever reason, please send us a note at <redh
 
 If you don't want to pay online, you can pay by check.
 Send a check, made out to the "Redding Ultimate Association" with "RHH 2013" in the memo, to 2955 Anita St. Redding, CA 96001.
+
+
+## Discs
+
+<div class="pull-right span3 well" style="text-align: center">
+    <h5>Buy discs</h5>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <input type="hidden" name="cmd" value="_s-xclick" />
+        <input type="hidden" name="hosted_button_id" value="8EHH3RW7UPVVQ" />
+        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+</div>
+
+Red Hot Hat 2013 <a href="#discimg">discs</a> are available for pre-order at $10 a disc until the day of the tournament, when the price will go up to $15 per disc.
+To pre-order, use the button at the right.
+You can pick up your disc when you check in on the day of the tournament.
+
+If you would like to pre-order a disc, but don't want to use Paypal, you can send a check, made out to the "Redding Ultimate Association" with "RHH 2013 disc" in the memo, to 2955 Anita St. Redding, CA 96001.
+
 
 ## See you April 27th!!!
 
