@@ -1,13 +1,9 @@
 Categories: leagues:0
 Read more: Tell me more...
 Summary: Every Wednesday in the fall we play structured pickup at Caldwell Park, starting at 8pm. These evenings are open to all players of all skill levels.
-Updated: Jan 21, 2013
+Updated: August 20, 2013
 
 # Fall league
-
-<div class="alert alert-warning">
-    RAFUL is not running, but will begin again in the Fall of 2013.
-</div>
 
 <img src="/images/celeste_forehand.jpg" class="span3 pull-right img-rounded">
 
