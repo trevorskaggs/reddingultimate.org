@@ -4,7 +4,7 @@ Read more: Tell me more...
 
 # Summer League
 
-<div class="thumbnail span3 pull-right">
+<div class="thumbnail span2 pull-right">
     <a href="/images/carl.jpg">
     <img src="/images/carl.jpg">
     </a>
@@ -12,10 +12,14 @@ Read more: Tell me more...
     <div class="caption">
         The RASUL czar, Carl Holcombe.
     </div>
-
 </div>
 
-<p><abbr title="Redding Area Summer Ultimate League" class="initialism">RASUL</abbr> takes place during the summer months on every Wednesday night at <a href="/places/caldwell">Caldwell Park</a>. We'll be back next summer with
-more summer league play. This page will be updated with more information as
-RASUL 2013 approaches</p>
+Each summer, the Redding Ultimate Association puts on the **Redding Area Summer Ultimate League**, a summer-long open-to-the-public summer league.
+Whether you've never played ultimate before, or are an experienced vet, we hope this league will be a good time!
 
+### Summer League 2013
+
+Hey everyone, it's time again to RASUL (Redding Area Summer Ultimate League)!
+
+RASUL will run every Wed., beginning May 1 through Aug. 14, at <a href="/places/caldwell">Caldwell Park</a> under the lights, from 7pm-10:15pm.
+The league registration fee is again <b>$20</b> (covers costs of the field + a team t-shirt) for 16 weeks of Ultimate & exercise. You can register at the field or at <a href="http://http://reddingrecreation.org/REC_admin_registration.html">Redding Park and Rec</a>.
